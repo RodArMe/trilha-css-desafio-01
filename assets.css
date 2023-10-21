@@ -1,0 +1,56 @@
+
+       
+       
+   
+   
+    
+    
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+  
+  
+ 
+  
+    body{
+       
+
+        background-color: rgb(0, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+    }
+    .logo{ 
+        margin: 100px auto;
+        border: 1px;
+        
+        
+    }
+    button{
+        font-size: 40px;
+        margin: 50px auto;
+        border: 2px;
+        border-color: #33A8DB;
+        color:#33A8DB;
+        border-radius: 25px;
+    }
+    h1, h2, h3{font-size: 60px ;
+        color: #33A8DB;
+    }
+    p{ font-size: 40px;
+    color: white;
+font-family: Roboto slab;}
+.module{
+    font-size: 40px;
+color: white;
+background-color: #252525;
+border: 1px solid;
+border-radius: 25px;
+border-color: #33A8DB;
+margin: 50px auto;
+
+}
+.dio-logo{
+   width: 310;
+   height: 44px;
+   top: 49px;
+   left: 565px;
+    
+    
+}
